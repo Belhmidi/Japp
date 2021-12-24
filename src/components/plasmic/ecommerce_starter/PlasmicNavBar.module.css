@@ -1,0 +1,125 @@
+.root {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  position: relative;
+  min-width: 0;
+}
+.freeBox__nKHzv {
+  max-width: 1024px;
+  display: flex;
+  flex-direction: row;
+  flex-column-gap: 0px;
+  position: relative;
+  align-items: center;
+  width: 100%;
+  justify-content: space-between;
+  min-width: 0;
+  padding: 32px;
+}
+.svg__dq13I {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+  min-width: 0;
+  min-height: 0;
+}
+.svg__ohiPb {
+  position: relative;
+  object-fit: cover;
+  width: 24px;
+  height: 24px;
+}
+.freeBox__lRj6Q {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+}
+.freeBox__lRj6Q > :global(.__wab_flex-container) {
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+  margin-left: calc(0px - 8px);
+  width: calc(100% + 8px);
+}
+.freeBox__lRj6Q > :global(.__wab_flex-container) > *,
+.freeBox__lRj6Q > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.freeBox__lRj6Q > :global(.__wab_flex-container) > picture > img,
+.freeBox__lRj6Q
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-left: 8px;
+}
+.searchButton__searchOpen:global(.__wab_instance) {
+  min-width: 200px;
+}
+.svg__a5Sjo {
+  position: relative;
+  object-fit: cover;
+  width: 24px;
+  height: 24px;
+}
+.svg__zCvPu {
+  position: relative;
+  object-fit: cover;
+  width: 24px;
+  height: 24px;
+}
+.searchInput:global(.__wab_instance) {
+  position: relative;
+  max-width: 200px;
+  display: none;
+}
+.searchInput__searchOpen:global(.__wab_instance) {
+  display: flex;
+}
+.svg__n0HhJ {
+  position: relative;
+  object-fit: cover;
+  width: 24px;
+  height: 24px;
+}
+.svg___4BmEs {
+  position: relative;
+  object-fit: cover;
+  width: 24px;
+  height: 24px;
+}
+.svg__defvO {
+  position: relative;
+  object-fit: cover;
+  width: 24px;
+  height: 24px;
+}
+.svg___3Qtx4 {
+  position: relative;
+  object-fit: cover;
+  width: 24px;
+  height: 24px;
+}
+.freeBox__rH2Sm {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+}
+.svg__knlpy {
+  position: relative;
+  object-fit: cover;
+  width: 24px;
+  height: 24px;
+}
+.text {
+  height: auto;
+  width: auto;
+}
+.svg__vNb59 {
+  position: relative;
+  object-fit: cover;
+  width: 24px;
+  height: 24px;
+}

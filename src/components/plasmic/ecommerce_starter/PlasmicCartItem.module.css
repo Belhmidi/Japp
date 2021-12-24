@@ -1,0 +1,143 @@
+.root {
+  display: flex;
+  width: 100%;
+  flex-direction: row;
+  position: relative;
+  justify-content: flex-start;
+  align-items: center;
+  min-width: 0;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .root {
+    display: flex;
+    flex-direction: column;
+    flex-column-gap: 0px;
+  }
+}
+.img {
+  position: relative;
+  object-fit: cover;
+  left: auto;
+  top: auto;
+  width: 200px;
+  flex-shrink: 0;
+  display: inline-block !important;
+}
+.img > picture > img {
+  object-fit: cover;
+}
+.img > .__wab_img-spacer > img {
+  object-fit: cover;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .img {
+    position: relative;
+    left: auto;
+    top: auto;
+  }
+}
+.freeBox__p3JBw {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  top: auto;
+  left: auto;
+  padding: 32px;
+}
+.freeBox__p3JBw > :global(.__wab_flex-container) {
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+  margin-top: calc(0px - 8px);
+  height: calc(100% + 8px);
+}
+.freeBox__p3JBw > :global(.__wab_flex-container) > *,
+.freeBox__p3JBw > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.freeBox__p3JBw > :global(.__wab_flex-container) > picture > img,
+.freeBox__p3JBw
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-top: 8px;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .freeBox__p3JBw {
+    position: relative;
+    left: auto;
+    top: auto;
+  }
+}
+.link {
+  display: flex;
+  flex-direction: row;
+}
+.freeBox__vE4AT {
+  display: flex;
+  position: relative;
+}
+.slotTargetTitle {
+  font-family: "Poppins", sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 32px;
+  white-space: pre-wrap;
+  color: #333333;
+}
+.freeBox__cetHc {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  height: auto;
+}
+.slotTargetProductNumber {
+  color: #666666 /* plasmic-token: 86GmVk80Cl0Y */;
+}
+.freeBox__i2XfC {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+}
+.freeBox___285Le {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+}
+.freeBox__hs8Av {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+}
+.freeBox__hs8Av > :global(.__wab_flex-container) {
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+  margin-left: calc(0px - 8px);
+  width: calc(100% + 8px);
+}
+.freeBox__hs8Av > :global(.__wab_flex-container) > *,
+.freeBox__hs8Av > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.freeBox__hs8Av > :global(.__wab_flex-container) > picture > img,
+.freeBox__hs8Av
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-left: 8px;
+}
+.svg__ksavj {
+  object-fit: cover;
+  width: 24px;
+  height: 24px;
+  flex-shrink: 0;
+}
+.svg__xj7OX {
+  object-fit: cover;
+  width: 24px;
+  height: 24px;
+  flex-shrink: 0;
+}
